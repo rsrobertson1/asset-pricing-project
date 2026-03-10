@@ -27,6 +27,7 @@ Specifically, this project compares the predictive power and risk-adjusted perfo
 *(Note: Replace the bracketed text with your actual findings from the notebook!)*
 
 * **CAPM vs. FF3F Performance:** The Fama-French 3-Factor model yielded a higher R-squared value of 51.5% compared to CAPM's 45%, indicating that the multi-factor model better explains the variance in the tech portfolio's returns.
-* **Alpha Generation:** After controlling for market risk, size, and value factors, the portfolio generated a statistically significant alpha of **[Insert Number]**, suggesting [explain what this implies about the efficient market hypothesis for these specific stocks].
-* **Factor Sensitivity:** The regression analysis revealed a high sensitivity to the **[Market / SMB / HML]** factor (Coefficient: **[Insert Number]**), which aligns with the growth-oriented nature of the selected technology equities.
+* **Alpha Generation:** After controlling for market risk, size, and value factors, the portfolio generated a statistically significant alpha of 0.0075, suggesting that adding additional factors to the analysis explains better price/return movements.
+* **Factor Sensitivity:** The regression analysis revealed a high sensitivity to the HML factor, which aligns with the growth-oriented nature of the selected technology equities.
+
 
